@@ -12,5 +12,5 @@ This project takes a heart disease dataset and makes predictions based on it usi
 3. Principal Component Analysis - Applied PCA to ensure a high quality of features
 4. Model Selection - A suitable algorithm was chosen to be trained into a model
 5. Supervised ML - The algorithm was trained into a suitable model 
-6. Model Testing - The newly created model was tested
+6. Model Testing - The newly created model was tested using some actual data and dummy data
   
