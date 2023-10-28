@@ -1,6 +1,7 @@
 # Heart Disease Predictive Analysis
 This project takes a heart disease dataset and makes predictions based on it using Machine Learning.
 
+Link to project 👉🏾 [Heart Disease Predictive Analysis Google Colab Link](https://colab.research.google.com/drive/1Ddye0YAULXe50teKU7-XWq2DeV8vp-Aj?usp=sharing)
 ## Technology Used
 - Python (Numpy, pandas, matplotlib, 
 - Machine Learning Models such as:
